@@ -1,1 +1,2 @@
-# milica-donation-app
+# Donation App
+DON-AID
