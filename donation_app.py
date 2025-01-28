@@ -27,7 +27,7 @@ if st.session_state.enter_app == 1:
     page_selection = st.sidebar.selectbox("Menu", options)
 
     if page_selection == "About":
-        st.image("images/about.png", use_column_width=True)
+        st.image("images/about.png")
         st.write("SUDAN AND GAZA IN CRISIS:")
         st.write(
             "Unfortunately, there are are countries that loose over 10,000 and more inhabitants of their beloved country. Mothers, fathers, children, grandparents, relatives, friends, neighbours live in fear and danger and are closer to death than to escape or possible ceasefires. Just to name two of them, that already suffer in uncertain living circumstances: ")
